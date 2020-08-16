@@ -11,7 +11,7 @@
 [t1d]: ./images/t1d.png "At Drop off Location RViz"
 
 ## References
-This project utilizes the following ROS packages, cloned all of them on July 14, 2018.
+This project utilizes the following ROS packages.
 
 [gmapping](http://wiki.ros.org/gmapping)
 [turtlebot_teleop](http://wiki.ros.org/turtlebot_teleop)
